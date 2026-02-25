@@ -10,5 +10,7 @@ pip install streamlit
 pip install chromadb
 # launch streamlit project through console
 cd ~/yourfoldername/gl_project
+
 source .venv/bin/activate
+
 streamlit run app.py
